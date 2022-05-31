@@ -29,7 +29,7 @@ const listBelanjaan = () => {
   return rincianBelanjaan;
 };
 
-console.log(listBelanjaan());
+//console.log(listBelanjaan());
 
 // boleh dimodifikasi bila ingin menggunakan deklarasi fungsi yang normal
 const totalBelanjaan = () => {
@@ -40,7 +40,7 @@ const totalBelanjaan = () => {
   return hitungTotal;
 }
 
-console.log(totalBelanjaan());
+//console.log(totalBelanjaan());
 
 // ! JANGAN DIMODIFIKASI
 const main = () => {
